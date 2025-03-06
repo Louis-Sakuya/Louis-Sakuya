@@ -22,7 +22,7 @@ I'm a Bsc CS student in uOttawa. I am also a passionate software developer with 
 - 
 #### Contact 📫
 - **Email:** LouisLyu02@outlook.com  
-- **LinkedIn:** [Profile](linkedin.com/in/jiazhi-lyu-878624353)  
+- **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)  
 </details>
 
 <details>
@@ -40,6 +40,6 @@ I'm a Bsc CS student in uOttawa. I am also a passionate software developer with 
 
 #### 联系方式 📫
 - **邮箱:** LouisLyu02@outlook.com  
-- **LinkedIn:** [Profile](linkedin.com/in/jiazhi-lyu-878624353)  
+- **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)  
 
 </details>
