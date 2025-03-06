@@ -33,9 +33,10 @@ I'm a Bsc CS student in uOttawa. I am also a passionate software developer with 
 
 #### 技能 🛠️
 - **编程语言:** Java, Python, JavaScript, C++
-- **前端技术:** HTML, CSS, React, Vue.js
-- **后端技术:** Node.js, Express, Django, Spring Boot
-- **工具与平台:** Git, Docker, Kubernetes, AWS
+- **前端技术:** HTML, CSS, React
+- **后端技术:** Node.js, angular
+- **游戏开发:** Godot,C#, Unreal Engine 5 blueprints
+- **工具与平台:** Git, Docker
 
 #### 联系方式 📫
 - **邮箱:** LouisLyu02@outlook.com  
