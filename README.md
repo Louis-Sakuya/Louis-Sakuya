@@ -2,6 +2,10 @@
 
 Welcome to my personal homepage! 欢迎来到我的个人主页！
 
+#### Contact / 联系方式 📫
+- **Email:** LouisLyu02@outlook.com  
+- **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)
+  
 ## Language Switch / 语言切换 🔄
 
 点击下面的链接展开对应语言版本：
@@ -19,10 +23,8 @@ I'm a Bsc CS student in uOttawa. I am also a passionate software developer with 
 - **Back-end:** Node.js, angular
 - **Game-Develop:** Godot,C#, Unreal Engine 5 blueprints
 - **Tools & Platforms:** Git, Docker
-- 
-#### Contact 📫
-- **Email:** LouisLyu02@outlook.com  
-- **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)  
+  
+
 </details>
 
 <details>
@@ -38,8 +40,5 @@ I'm a Bsc CS student in uOttawa. I am also a passionate software developer with 
 - **游戏开发:** Godot,C#, Unreal Engine 5 blueprints
 - **工具与平台:** Git, Docker
 
-#### 联系方式 📫
-- **邮箱:** LouisLyu02@outlook.com  
-- **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)  
 
 </details>
