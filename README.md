@@ -6,10 +6,7 @@ Welcome to my personal homepage! 欢迎来到我的个人主页！
 - **Email:** LouisLyu02@outlook.com  
 - **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)
   
-## Language Switch / 语言切换 🔄
-
-点击下面的链接展开对应语言版本：
-
+## Personal Information/ 个人信息:
 <details>
   <summary>English 🇺🇸🌍</summary>
 
