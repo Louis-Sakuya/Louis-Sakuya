@@ -5,13 +5,16 @@ Welcome to my personal homepage! 欢迎来到我的个人主页！
 #### Contact / 联系方式 📫
 - **Email:** LouisLyu02@outlook.com  
 - **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)
+
+#### Personal Website / 个人网站 🔮
+- **MyGameDevPortfolio:** www.sakuya-fox.space
   
-## Personal Information/ 个人信息:
+## Personal Information/ 个人信息 💾:
 <details>
   <summary>English 🇺🇸🌍</summary>
 
 ### About Me 💻 
-I'm a Bsc CS student in uOttawa. I am also a passionate software developer with experience in multiple programming languages and technologies. I enjoy coding, learning new tools, and contributing to open source projects. I'm currently obsessed with game development. 
+I'm graduated as Honours Computer Science Bachelor from uOttawa. I am also a passionate software developer with experience in multiple programming languages and technologies. I enjoy coding, learning new tools, and contributing to open source projects. Currently, I am passionate about game development, and I also have experience in front-end and full-stack development projects.
 
 
 #### Skills 🛠️
@@ -28,7 +31,7 @@ I'm a Bsc CS student in uOttawa. I am also a passionate software developer with 
   <summary>中文 🇨🇳🌏</summary>
 
 ### 关于我 💻
-我是一名毕业于渥太华大学CS专业的学生。同时我是一个对编程和技术充满热情的开发者，有过多种编程语言和技术工具的经验。我喜欢编程、学习新技术，并致力于为开源社区做出贡献。目前我正在痴迷于游戏开发。
+我是一名毕业于渥太华大学CS专业的学生。同时我是一个对编程和技术充满热情的开发者，有过多种编程语言和技术工具的经验。我喜欢编程、学习新技术，并致力于为开源社区做出贡献。痴迷于游戏开发的同时我还拥有前端以及全栈开发的项目经验。
 
 #### 技能 🛠️
 - **编程语言:** Java, Python, JavaScript, C++
