@@ -6,7 +6,7 @@ Welcome to my personal homepage! 欢迎来到我的个人主页！
 - **Email:** LouisLyu02@outlook.com  
 - **LinkedIn:** [Profile](https://linkedin.com/in/jiazhi-lyu-878624353)
 
-#### Personal Website / 个人网站 🔮
+#### Personal Website / 个人网站 🔮 （域名暂时停用）
 - **MyGameDevPortfolio:** www.sakuya-fox.space
   
 ## Personal Information/ 个人信息 💾:
